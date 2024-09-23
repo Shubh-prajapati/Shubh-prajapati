@@ -1,9 +1,5 @@
 ![image](https://github.com/user-attachments/assets/e09d4ad8-5b14-412a-821a-90cff0b11339)
 
-
-<p align=”center”>
-<img width=”200" height=”200" src="[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://www.marutiinstituteofdesign.com/wp-content/uploads/2023/06/maruti-institute-website-banner-new8-2048x683.jpg)" alt=”my banner”>
-</p>
 <h1 align="center">Hi 👋, I'm Shubham Prajapati</h1>
 <h3 align="center">A Passionate Backend Development from India</h3>
 
